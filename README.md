@@ -18,3 +18,4 @@ name|icon|url
 down | <img src="https://raw.github.com/Bkucera/svg/master/down.svg?sanitize=true"/>|`![](https://raw.github.com/Bkucera/svg/master/down.svg?sanitize=true)`
 up|<img src="https://raw.github.com/Bkucera/svg/master/up.svg?sanitize=true"/>|`![](https://raw.github.com/Bkucera/svg/master/up.svg?sanitize=true)`
 check|<img src="https://raw.github.com/Bkucera/svg/master/check.svg?sanitize=true"/>|`![](https://raw.github.com/Bkucera/svg/master/check.svg?sanitize=true)`
+script|<img src="https://raw.github.com/Bkucera/svg/master/script.svg?sanitize=true"/>|`![](https://raw.github.com/gavingmiller/svg/master/script.svg?sanitize=true)`
